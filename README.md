@@ -1,5 +1,7 @@
 # testing
 A test of the github repository system...
 
-##Contributors
+##Contributors:
 William "Moondog" Robertson
+Wandi Ding
+
