@@ -8,7 +8,10 @@ my_num = str(rng.integers(10) + 1)
 print("I'm thinking of a number in the range of [1, 10]...")
 num = input("What is my number? ").strip()
 while num != my_num:
-    print("WRONG")
+    if(num < my_num):
+        print("TOO LOW")
+    else:
+        print("TOO HIGH")
     num = input("What is my number? ").strip()
     
 print("Amazing.")
