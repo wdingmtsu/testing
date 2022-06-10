@@ -1,3 +1,3 @@
 #! /usr/bin/env python3
 
-print("Hello World!  -SG")
+print("What tha dog doin?")
