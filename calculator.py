@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 print("Select operation")
 print("\t1. Add")
 print("\t2. Subtract")
