@@ -1,19 +1,11 @@
 # testing
 A test of the github repository system...
 
-##Contributors:
-
-William "Moondog" Robertson
+## Contributors:
 Wandi Ding
 **Brady Nichols**
 Chris Guptil
-David Ludwig
-Kendra Givens
+William "Moondog" Robertson
+Kendra Givens 
 Joshua Cox
 Sally Vogel
-Joshua L. Phillips
-Jack Liu
-David C. Heson
-Sawyer Griffy
-Matthew Senese
-Kyle Sprague
