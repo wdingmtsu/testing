@@ -4,5 +4,7 @@ A test of the github repository system...
 ##Contributors:
 William "Moondog" Robertson
 Wandi Ding 
-Kyle Sprague
+Kendra Givens  
+Kyle Sprague 
+
 
