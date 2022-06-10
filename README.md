@@ -1,9 +1,7 @@
 # testing
 A test of the github repository system...
 
-<<<<<<< HEAD
 ## Contributors:
-
 William "Moondog" Robertson  
 Wandi Ding  
 **Brady Nichols**  
