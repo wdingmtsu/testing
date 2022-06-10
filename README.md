@@ -2,16 +2,19 @@
 A test of the github repository system...
 
 ## Contributors:
+
 Wandi Ding
 William "Moondog" Robertson
 Joshua L. Phillips
-**Brady Nichols**
+[Brady Nichols](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 Chris Guptil
 David Ludwig
-Kendra Givens 
+Kendra Givens
 Joshua Cox
 Sally Vogel
-David Heson
 Jack Liu
+David C. Heson
 Sawyer Griffy
 Matthew Senese
+Kyle Sprague
+
